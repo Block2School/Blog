@@ -2,7 +2,7 @@
 
 The term "Web3" has become a buzzword in the tech industry, symbolizing the evolution of the internet from its earliest days to a future of decentralized networks and blockchain technology. This article traces the history of Web3, exploring its origins, development, and potential impact on the digital world.
 
-<img width="739" alt="Screenshot 2024-01-08 at 16 52 14" src="https://github.com/Block2School/Blog/assets/62594690/7deaa919-442a-4e41-9b6f-98366b1d05d3">
+![Screenshot 2024-01-17 at 16 21 53](https://github.com/Block2School/Blog/assets/62594690/81204617-7931-4290-b4f9-0bcfe8ab86f6)
 
 ## Early Internet: Web1 (1990s - Early 2000s)
 
